@@ -67,11 +67,15 @@ Before running the project, ensure you have the following installed:
    
      `uvicorn auth:app --reload`
 
-8. **API Documentation**
+---
+ 
+ **API Documentation**
    
 The API documentation is automatically generated using Swagger UI and ReDoc.
 
 Swagger UI: http://127.0.0.1:8000/docs
+
+---
 
 **Endpoints**
   Authentication
@@ -97,7 +101,10 @@ Swagger UI: http://127.0.0.1:8000/docs
   **Logging**
     Logs are saved to app.log in the root directory. The log file contains information about user signups, logins, and errors.
 
+---
+
 **Contributing**
+
     Contributions are welcome! If you'd like to contribute, please follow these steps:
 
   - Fork the repository.
@@ -106,7 +113,10 @@ Swagger UI: http://127.0.0.1:8000/docs
 
   - Commit your changes.
 
+---
+
 **Contact**
+
   For questions or feedback, feel free to reach out:
 
 `Muhammad Hamza`
