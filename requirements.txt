@@ -1,0 +1,19 @@
+# Core dependencies
+fastapi==0.95.2
+uvicorn==0.22.0
+
+# Database
+mysql-connector-python==8.0.33
+
+# Authentication and security
+python-jose[cryptography]==3.3.0
+passlib[bcrypt]==1.7.4
+
+# Environment variables
+python-dotenv==1.0.0
+
+# Rate limiting
+slowapi==0.1.7
+
+# Email validation (for Pydantic)
+email-validator==2.0.0.post2
